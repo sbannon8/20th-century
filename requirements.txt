@@ -8,3 +8,5 @@ textblob
 pandas
 seaborn
 nltk
+pyvis
+cdlib
